@@ -128,7 +128,7 @@ GUIDE_ID=339
 If you find our work useful, please cite it as:
 
 ```bibtex
-@inproceedings{sobieski2024rethinking,
+@inproceedings{sobieski2025rethinking,
   title={Rethinking Visual Counterfactual Explanations Through Region Constraint},
   author={Sobieski, Bartlomiej and Grzywaczewski, Jakub and Sadlej, Bart{\l}omiej and Tivnan, Matthew and Biecek, Przemyslaw},
   booktitle={The Thirteenth International Conference on Learning Representations},
